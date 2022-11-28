@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyJson.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Workspace\CPPProject\UnrealCPP\UECpp\Intermediate\Build\Win64\UECppEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Workspace\CPPProject\UnrealCPP\UECpp\Plugins\MyJson\Intermediate\Build\Win64\UnrealEditor\Development\MyJson\Module.MyJson.cpp.obj"
+"D:\Workspace\CPPProject\UnrealCPP\UECpp\Plugins\MyJson\Intermediate\Build\Win64\UnrealEditor\Development\MyJson\Module.MyJson.gen.cpp.obj"
+"D:\Workspace\CPPProject\UnrealCPP\UECpp\Plugins\MyJson\Intermediate\Build\Win64\UnrealEditor\Development\MyJson\Default.rc2.res"
+/OUT:"D:\Workspace\CPPProject\UnrealCPP\UECpp\Plugins\MyJson\Intermediate\Build\Win64\UnrealEditor\Development\MyJson\UnrealEditor-MyJson.lib"

@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MyJson.cpp.obj": [
+			"MyJson.cpp.obj",
+			"MyJsonFunctionLibrary.cpp.obj",
+			"MyJsonObject.cpp.obj",
+			"MyJsonValue.cpp.obj"
+		],
+		"Module.MyJson.gen.cpp.obj": [
+			"MyJson.init.gen.cpp.obj",
+			"MyJsonFunctionLibrary.gen.cpp.obj",
+			"MyJsonObject.gen.cpp.obj",
+			"MyJsonValue.gen.cpp.obj"
+		]
+	}
+}

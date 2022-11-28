@@ -1,0 +1,29 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\development\\myjson\\module.myjson.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\intermediate\\build\\win64\\uecppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\development\\myjson\\definitions.myjson.h",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\inc\\myjson\\myjson.init.gen.cpp",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\inc\\myjson\\myjsonfunctionlibrary.gen.cpp",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\source\\myjson\\public\\myjsonfunctionlibrary.h",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\inc\\myjson\\myjsonfunctionlibrary.generated.h",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\inc\\myjson\\myjsonobject.gen.cpp",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\source\\myjson\\public\\myjsonobject.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\unreal\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\inc\\myjson\\myjsonobject.generated.h",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\inc\\myjson\\myjsonvalue.gen.cpp",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\source\\myjson\\public\\myjsonvalue.h",
+            "d:\\workspace\\cppproject\\unrealcpp\\uecpp\\plugins\\myjson\\intermediate\\build\\win64\\unrealeditor\\inc\\myjson\\myjsonvalue.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
